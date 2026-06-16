@@ -18,9 +18,11 @@ A Unity prototype for procedural character generation in a medieval Japanese-ins
 - Serializable character/stat models
 - Optional local AI integration via llama.cpp/LLamaSharp
 
-## Screenshots / Demo
+## Screenshots
 
-missing
+<img width="2250" height="1262" alt="Screenshot_Settings_Gameplay" src="https://github.com/user-attachments/assets/85ecaf4e-4aa2-48c2-a59c-68cfa6631a13" />
+
+<img width="2250" height="1261" alt="Screenshot_Characters_Selection" src="https://github.com/user-attachments/assets/764e9e30-e230-46fa-acb4-6e068d05989b" />
 
 ## Third-Party Code
 
