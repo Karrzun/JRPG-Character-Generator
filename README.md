@@ -30,8 +30,8 @@ missing
 
 ## Notes
 
-For this prototype, narrative data is stored in static generator classes. In a production version, these entries would be moved into ScriptableObjects or JSON data files.
-The LLM model files are not included in this repository.
+- For this prototype, narrative data is stored in static generator classes. In a production version, these entries would be moved into ScriptableObjects or JSON data files.
+- The LLM model files are not included in this repository.
 
 ## License
 
